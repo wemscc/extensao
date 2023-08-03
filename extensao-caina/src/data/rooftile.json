@@ -1,0 +1,17 @@
+{
+    "Telha 1" : {
+        "angle" : 1.0,
+        "weight" : 2.0,
+        "distance": 3.0
+    },
+    "Telha 2" : {
+        "angle" : 4.0,
+        "weight" : 5.0,
+        "distance": 6.0
+    },
+    "Telha 3" : {
+        "angle" : 7.0,
+        "weight" : 8.0,
+        "distance": 9.0
+    }
+}

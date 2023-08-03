@@ -1,0 +1,184 @@
+{
+    "ac" : {
+        "name"    : "Acre",
+        "acronym" : "AC",
+        "data"    : {
+            "humidity" : 0.0
+        }
+    },
+    "al" : {
+        "name"    : "Alagoas",
+        "acronym" : "AL",
+        "data"    : {
+            "humidity" : 1.0
+        }
+    },
+    "ap" : {
+        "name"    : "Amapá",
+        "acronym" : "AP",
+        "data"    : {
+            "humidity" : 2.0
+        }
+    },
+    "am" : {
+        "name"    : "Amazonas",
+        "acronym" : "AM",
+        "data"    : {
+            "humidity" : 3.0
+        }
+    },
+    "ba" : {
+        "name"    : "Bahia",
+        "acronym" : "BA",
+        "data"    : {
+            "humidity" : 4.0
+        }
+    },
+    "ce" : {
+        "name"    : "Ceará",
+        "acronym" : "CE",
+        "data"    : {
+            "humidity" : 5.0
+        }
+    },
+    "df" : {
+        "name"    : "Distrito Federal",
+        "acronym" : "DF",
+        "data"    : {
+            "humidity" : 6.0
+        }
+    },
+    "es" : {
+        "name"    : "Espírito Santo",
+        "acronym" : "ES",
+        "data"    : {
+            "humidity" : 7.0
+        }
+    },
+    "go" : {
+        "name"    : "Goiás",
+        "acronym" : "GO",
+        "data"    : {
+            "humidity" : 8.0
+        }
+    },
+    "ma" : {
+        "name"    : "Maranhão",
+        "acronym" : "MA",
+        "data"    : {
+            "humidity" : 9.0
+        }
+    },
+    "mt" : {
+        "name"    : "Mato Grosso",
+        "acronym" : "MT",
+        "data"    : {
+            "humidity" : 10.0
+        }
+    },
+    "ms" : {
+        "name"    : "Mato Grosso do Sul",
+        "acronym" : "MS",
+        "data"    : {
+            "humidity" : 11.0
+        }
+    },
+    "mg" : {
+        "name"    : "Minas Gerais",
+        "acronym" : "MG",
+        "data"    : {
+            "humidity" : 12.0
+        }
+    },
+    "pa" : {
+        "name"    : "Pará",
+        "acronym" : "PA",
+        "data"    : {
+            "humidity" : 13.0
+        }
+    },
+    "pb" : {
+        "name"    : "Paraíba",
+        "acronym" : "PB",
+        "data"    : {
+            "humidity" : 14.0
+        }
+    },
+    "pr" : {
+        "name"    : "Paraná",
+        "acronym" : "PR",
+        "data"    : {
+            "humidity" : 15.0
+        }
+    },
+    "pe" : {
+        "name"    : "Pernambuco",
+        "acronym" : "PE",
+        "data"    : {
+            "humidity" : 16.0
+        }
+    },
+    "pi" : {
+        "name"    : "Piauí",
+        "acronym" : "PI",
+        "data"    : {
+            "humidity" : 17.0
+        }
+    },
+    "rj" : {
+        "name"    : "Rio de Janeiro",
+        "acronym" : "RJ",
+        "data"    : {
+            "humidity" : 18.0
+        }
+    },
+    "rn" : {
+        "name"    : "Rio Grande do Norte",
+        "acronym" : "RN",
+        "data"    : {
+            "humidity" : 19.0
+        }
+    },
+    "ro" : {
+        "name"    : "Rondônia",
+        "acronym" : "RO",
+        "data"    : {
+            "humidity" : 20.0
+        }
+    },
+    "rr" : {
+        "name"    : "Roraima",
+        "acronym" : "RR",
+        "data"    : {
+            "humidity" : 21.0
+        }
+    },
+    "sc" : {
+        "name"    : "Santa Catarina",
+        "acronym" : "SC",
+        "data"    : {
+            "humidity" : 22.0
+        }
+    },
+    "sp" : {
+        "name"    : "São Paulo",
+        "acronym" : "SP",
+        "data"    : {
+            "humidity" : 23.0
+        }
+    },
+    "se" : {
+        "name"    : "Sergipe",
+        "acronym" : "SE",
+        "data"    : {
+            "humidity" : 24.0
+        }
+    },
+    "to" : {
+        "name"    : "Tocantins",
+        "acronym" : "TO",
+        "data"    : {
+            "humidity" : 25.0
+        }
+    }
+}
