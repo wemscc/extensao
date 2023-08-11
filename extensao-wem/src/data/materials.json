@@ -1,0 +1,372 @@
+{
+    "wood" : {
+        "type" : "Wood",
+        "name" : "Madeira",
+        "class" : {
+            "c14" : {
+                "class" : "C14",
+                "name" : ["madeira1","madeira11"],
+                "attributes" : {
+                    "f_bk": 14.0,
+                    "f_t0k": 8.0,
+                    "f_t90k": 0.4,
+                    "f_c0k": 16.0,
+                    "f_c90k": 2.0,
+                    "f_vk": 3.0,
+                    "E_0m": 7.0,
+                    "E_005": 4.7,
+                    "E_90m": 0.2,
+                    "G_m": 0.4,
+                    "p_k": 290.0,
+                    "p_m": 350.0
+                }
+            },
+            "c16" : {
+                "class" : "C16",
+                "name" : ["madeira2"],
+                "attributes" : {
+                    "f_bk": 16.0,
+                    "f_t0k": 10.0,
+                    "f_t90k": 0.4,
+                    "f_c0k": 17.0,
+                    "f_c90k": 2.2,
+                    "f_vk": 3.2,
+                    "E_0m": 8.0,
+                    "E_005": 5.4,
+                    "E_90m": 0.3,
+                    "G_m": 0.5,
+                    "p_k": 310.0,
+                    "p_m": 370.0
+                }
+            },
+            "c18" : {
+                "class" : "C18",
+                "name" : ["madeira3"],
+                "attributes" : {
+                    "f_bk": 18.0,
+                    "f_t0k": 11.0,
+                    "f_t90k": 0.4,
+                    "f_c0k": 18.0,
+                    "f_c90k": 2.2,
+                    "f_vk": 3.4,
+                    "E_0m": 9.0,
+                    "E_005": 6.0,
+                    "E_90m": 0.3,
+                    "G_m": 0.6,
+                    "p_k": 320.0,
+                    "p_m": 380.0
+                }
+            },
+            "c20" : {
+                "class" : "C20",
+                "name" : ["madeira4"],
+                "attributes" : {
+                    "f_bk": 20.0,
+                    "f_t0k": 12.0,
+                    "f_t90k": 0.4,
+                    "f_c0k": 19.0,
+                    "f_c90k": 2.3,
+                    "f_vk": 3.6,
+                    "E_0m": 9.5,
+                    "E_005": 6.4,
+                    "E_90m": 0.3,
+                    "G_m": 0.6,
+                    "p_k": 330.0,
+                    "p_m": 390.0
+                }
+            },
+            "c22" : {
+                "class" : "C22",
+                "name" : ["madeira5"],
+                "attributes" : {
+                    "f_bk": 22.0,
+                    "f_t0k": 13.0,
+                    "f_t90k": 0.4,
+                    "f_c0k": 20.0,
+                    "f_c90k": 2.4,
+                    "f_vk": 3.8,
+                    "E_0m": 10.0,
+                    "E_005": 6.7,
+                    "E_90m": 0.3,
+                    "G_m": 0.6,
+                    "p_k": 340.0,
+                    "p_m": 410.0
+                }
+            },
+            "c24" : {
+                "class" : "C24",
+                "name" : ["madeira6"],
+                "attributes" : {
+                    "f_bk": 24.0,
+                    "f_t0k": 14.0,
+                    "f_t90k": 0.4,
+                    "f_c0k": 21.0,
+                    "f_c90k": 2.5,
+                    "f_vk": 4.0,
+                    "E_0m": 11.0,
+                    "E_005": 7.4,
+                    "E_90m": 0.4,
+                    "G_m": 0.7,
+                    "p_k": 350.0,
+                    "p_m": 420.0
+                }
+            },
+            "c27" : {
+                "class" : "C27",
+                "name" : ["madeira7"],
+                "attributes" : {
+                    "f_bk": 27.0,
+                    "f_t0k": 16.0,
+                    "f_t90k": 0.4,
+                    "f_c0k": 22.0,
+                    "f_c90k": 2.6,
+                    "f_vk": 4.0,
+                    "E_0m": 12.0,
+                    "E_005": 7.7,
+                    "E_90m": 0.4,
+                    "G_m": 0.7,
+                    "p_k": 370.0,
+                    "p_m": 450.0
+                }
+            },
+            "c30" : {
+                "class" : "C30",
+                "name" : ["madeira8"],
+                "attributes" : {
+                    "f_bk": 30.0,
+                    "f_t0k": 18.0,
+                    "f_t90k": 0.4,
+                    "f_c0k": 23.0,
+                    "f_c90k": 2.7,
+                    "f_vk": 4.0,
+                    "E_0m": 12.0,
+                    "E_005": 8.0,
+                    "E_90m": 0.4,
+                    "G_m": 0.8,
+                    "p_k": 380.0,
+                    "p_m": 460.0
+                }
+            },
+            "c35" : {
+                "class" : "C35",
+                "name" : ["madeira9"],
+                "attributes" : {
+                    "f_bk": 35.0,
+                    "f_t0k": 21.0,
+                    "f_t90k": 0.4,
+                    "f_c0k": 25.0,
+                    "f_c90k": 2.8,
+                    "f_vk": 4.0,
+                    "E_0m": 13.0,
+                    "E_005": 8.7,
+                    "E_90m": 0.4,
+                    "G_m": 0.8,
+                    "p_k": 400.0,
+                    "p_m": 480.0
+                }
+            },
+            "c40" : {
+                "class" : "C40",
+                "name" : "madeira10",
+                "attributes" : {
+                    "f_bk": 40.0,
+                    "f_t0k": 24.0,
+                    "f_t90k": 0.4,
+                    "f_c0k": 26.0,
+                    "f_c90k": 2.9,
+                    "f_vk": 4.0,
+                    "E_0m": 14.0,
+                    "E_005": 9.4,
+                    "E_90m": 0.5,
+                    "G_m": 0.9,
+                    "p_k": 420.0,
+                    "p_m": 500.0
+                }
+            },
+            "c45" : {
+                "class" : "C45",
+                "name" :["madeira11"],
+                "attributes" : {
+                    "f_bk": 45.0,
+                    "f_t0k": 27.0,
+                    "f_t90k": 0.4,
+                    "f_c0k": 27.0,
+                    "f_c90k": 3.1,
+                    "f_vk": 4.0,
+                    "E_0m": 15.0,
+                    "E_005": 10.0,
+                    "E_90m": 0.5,
+                    "G_m": 0.9,
+                    "p_k": 440.0,
+                    "p_m": 520.0
+                }
+            },
+            "c50" : {
+                "class" : "C50",
+                "name" : ["madeira12"],
+                "attributes" : {
+                    "f_bk": 50.0,
+                    "f_t0k": 30.0,
+                    "f_t90k": 0.4,
+                    "f_c0k": 29.0,
+                    "f_c90k": 3.2,
+                    "f_vk": 4.0,
+                    "E_0m": 16.0,
+                    "E_005": 11.0,
+                    "E_90m": 0.5,
+                    "G_m": 1.0,
+                    "p_k": 460.0,
+                    "p_m": 550.0
+                }
+            },
+            "d18" : {
+                "class" : "D18",
+                "name" : ["madeira13"],
+                "attributes" : {
+                    "f_bk": 18.0,
+                    "f_t0k": 11.0,
+                    "f_t90k": 0.6,
+                    "f_c0k": 18.0,
+                    "f_c90k": 7.5,
+                    "f_vk": 3.4,
+                    "E_0m": 9.5,
+                    "E_005": 8.0,
+                    "E_90m": 0.6,
+                    "G_m": 0.6,
+                    "p_k": 475.0,
+                    "p_m": 570.0
+                }
+            },
+            "d24" : {
+                "class" : "D24",
+                "name" : ["madeira14"],
+                "attributes" : {
+                    "f_bk": 24.0,
+                    "f_t0k": 14.0,
+                    "f_t90k": 0.6,
+                    "f_c0k": 21.0,
+                    "f_c90k": 7.8,
+                    "f_vk": 4.0,
+                    "E_0m": 10.0,
+                    "E_005": 8.5,
+                    "E_90m": 0.7,
+                    "G_m": 0.6,
+                    "p_k": 485.0,
+                    "p_m": 580.0
+                }
+            },
+            "d30" : {
+                "class" : "D30",
+                "name" : ["Castanheira","Cedro Amazonense","Embireira","Quarubarana","Tauari","Umirana"],
+                "attributes" : {
+                    "f_bk": 30.0,
+                    "f_t0k": 18.0,
+                    "f_t90k": 0.6,
+                    "f_c0k": 23.0,
+                    "f_c90k": 8.0,
+                    "f_vk": 4.0,
+                    "E_0m": 11.0,
+                    "E_005": 9.2,
+                    "E_90m": 0.7,
+                    "G_m": 0.7,
+                    "p_k": 530.0,
+                    "p_m": 640.0
+                }
+            },
+            "d35" : {
+                "class" : "D35",
+                "name" : ["madeira16"],
+                "attributes" : {
+                    "f_bk": 35.0,
+                    "f_t0k": 21.0,
+                    "f_t90k": 0.6,
+                    "f_c0k": 25.0,
+                    "f_c90k": 8.1,
+                    "f_vk": 4.0,
+                    "E_0m": 12.0,
+                    "E_005": 10.0,
+                    "E_90m": 0.8,
+                    "G_m": 0.8,
+                    "p_k": 540.0,
+                    "p_m": 650.0
+                }
+            },
+            "d40" : {
+                "class" : "D40",
+                "name" :["Abiú","Angelim Amargoso","Angelim Araroba","Angico Branco","Bicuíba","Branquilho","Cafearana","Canafístula","Canela Parda","Canelão","Catanudo","Copaíba","Cupíuba","Goiabão","Louro Verde","Mirarema","Quaruba Rosinha","Rabo de Arraia"],
+                "attributes" : {
+                    "f_bk": 40.0,
+                    "f_t0k": 24.0,
+                    "f_t90k": 0.6,
+                    "f_c0k": 26.0,
+                    "f_c90k": 8.3,
+                    "f_vk": 4.0,
+                    "E_0m": 13.0,
+                    "E_005": 11.0,
+                    "E_90m": 0.9,
+                    "G_m": 0.8,
+                    "p_k": 560.0,
+                    "p_m": 660.0
+                }
+            },
+            "d50" : {
+                "class" : "D50",
+                "name" : ["Angelim Pedra","Angelim Saia","Casca Grossa","Castelo","Envira","Envira Branca","Garrote","Louro Preto","Mirarema","Parinari","Peroba Mica","Piolho","Quina Rosa"],
+                "attributes" : {
+                    "f_bk": 50.0,
+                    "f_t0k": 30.0,
+                    "f_t90k": 0.6,
+                    "f_c0k": 29.0,
+                    "f_c90k": 9.3,
+                    "f_vk": 4.0,
+                    "E_0m": 14.0,
+                    "E_005": 12.0,
+                    "E_90m": 0.9,
+                    "G_m": 0.9,
+                    "p_k": 620.0,
+                    "p_m": 750.0
+                }
+            },
+            "d60" : {
+                "class" : "D60",
+                "name" : ["Angelim Ferro","Angelim Vermelho","Angico Preto","Breu Vermelho","Champanhe","Cutiúba","Garapa","Guaiçara","Guajará","Guanandi","Guarucaia","Ipê","Itaúba","Jatobá","Maçaranduba","Mandioqueira C60","Oiticica Amarela","Oiuchu","Roxinho","Sucupira","Tachi","Tatajuba","Umirana"],
+                "attributes" : {
+                    "f_bk": 60.0,
+                    "f_t0k": 36.0,
+                    "f_t90k": 0.6,
+                    "f_c0k": 32.0,
+                    "f_c90k": 11.0,
+                    "f_vk": 4.5,
+                    "E_0m": 17.0,
+                    "E_005": 14.0,
+                    "E_90m": 1.1,
+                    "G_m": 1.1,
+                    "p_k": 700.0,
+                    "p_m": 840.0
+                }
+            },
+            "d70" : {
+                "class" : "D70",
+                "name" : ["madeira20"],
+                "attributes" : {
+                    "f_bk": 70.0,
+                    "f_t0k": 42.0,
+                    "f_t90k": 0.6,
+                    "f_c0k": 34.0,
+                    "f_c90k": 13.5,
+                    "f_vk": 5.0,
+                    "E_0m": 20.0,
+                    "E_005": 16.8,
+                    "E_90m": 1.33,
+                    "G_m": 1.25,
+                    "p_k": 900.0,
+                    "p_m": 1080.0
+                }
+            }
+        }
+    },
+    "steel" : {
+        "type" : "Steel",
+        "name" : "Aço"
+    }
+}

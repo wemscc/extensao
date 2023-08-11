@@ -1,1 +1,0 @@
-__all__ = ["ifcmaterial", "ifcentity", "ifcproject", "ifcfile", "linalg"]
